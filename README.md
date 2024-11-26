@@ -25,6 +25,6 @@ I'm a Self-Learned Web & Game Developer with 2+ years of experience. I do mostly
 If you would like to get in contact with me, get in touch with me via:
 - Discord - <a href="https://discord.com/users/1115412247779475537">@mundaelol</a> 
 - Twitter (X) - <a href="https://x.com/mundaelol">@mundaelol</a> 
-- Email - <a href="mailto:mundae@denial.lol">mundae@denial.lol</a>
+- Email - <a href="mailto:me@mundae.me">me@mundae.me</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mundaelol&label=Profile%20views&color=0e75b6&style=flat" alt="mundaelol" /></p>
